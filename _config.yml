@@ -1,8 +1,20 @@
-layout_spectrum: 0.01792115
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.6827957
+  saturation: 0.8315412
   brandStrength: 0.06145914
-  lightness: 0.107702
-  rhythmicContrast: 0.9032258
+  lightness: 0
+  rhythmicContrast: 0.9677419
 typography_spectrum: 0.2150538
+layout_spectrum: 1
 name: GabrielaSanchez
