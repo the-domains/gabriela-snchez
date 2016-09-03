@@ -1,13 +1,9 @@
 ---
-author:
-  - name: 'Gabriela Sánchez '
-dateModified: '2016-08-24T04:05:02.724Z'
-via: {}
-title: Ontografías
-publisher: {}
-description: Acrílico sobre tela
-datePublished: '2016-09-01T03:17:47.950Z'
 starred: false
+title: ''
+datePublished: '2016-09-01T03:17:48.197Z'
+dateModified: null
+author: []
 sourcePath: _posts/2016-09-01-ontografias.md
 inFeed: true
 hasPage: false
@@ -15,5 +11,5 @@ inNav: false
 _type: MediaObject
 
 ---
-# Ontografías
-![Acrílico sobre tela](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c77c509-08a7-4059-a394-434a74de5d16.jpg)
+![Acrílico sobre tela](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e76f6db5-f381-4348-b07e-64350fd42387.jpg)
+![Pastel y carbón sobre papel ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71a1044d-1f66-45af-99ac-5301524b862b.jpg)
